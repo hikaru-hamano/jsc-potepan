@@ -1,0 +1,30 @@
+#display{
+    font-size: 30px;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    padding: 10px;
+    letter-spacing: 10px;
+}
+ span{
+    font-size: 20px;
+}
+.buttons{
+    text-align: left;
+    padding: 20px;
+}
+body{
+    font-size: 14px;
+}
+#start{
+    padding: 10px;
+}
+#stop{
+    margin-right: 5px;
+    margin-left: 10px;
+    padding: 10px;
+}
+#reset{
+    padding: 10px;
+}
