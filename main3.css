@@ -1,0 +1,28 @@
+ #boxA {
+      width: 200px;
+      padding: 15px;
+      border: 1px solid black;
+      background-color: white; /* このプロパティ値を操作します */
+      margin-bottom: 20px;
+    }
+ 
+    #boxB {
+      width: 200px;
+      padding: 15px;
+      border: 1px solid black;
+      background-color: white; /* このプロパティ値を操作します */
+      margin-bottom: 20px;
+    }
+ 
+    #boxC {
+      border: 1px solid black;
+      padding: 15px;
+      font-size: 14px; /* このプロパティ値を操作します */
+      margin-bottom: 20px;
+    }
+ 
+    .boxD {
+      width: 200px;
+      border: 1px solid black;
+      padding: 15px;
+    }
